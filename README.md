@@ -26,7 +26,7 @@ go get github.com/kalebosborne/go-modulus
     
 
 ### Try It Out In FizzBuzz
-cd $GOPATH/src/github.com/kalebosborne/go-modulus/fizzbuzz
+cd $GOPATH/src/github.com/kalebosborne/go-modulus/fizz-buzz
 #### Option 1
 go run main.go
 
