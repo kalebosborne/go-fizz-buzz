@@ -6,7 +6,7 @@ A fizz buzz is a great way to showcase that I understand the basic functionality
 
 go get github.com/kalebosborne/go-modulus
 
-    import mod "github.com/kalebosborne/go-modulus"
+    import "github.com/kalebosborne/go-modulus"
 
 ### Use Modulus Function
 
