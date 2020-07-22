@@ -36,7 +36,7 @@ go build -o fizzbuzz
 
 fizzbuzz.exe (windows) ./fizz-buzz (linux)
 
-or execute on fizzbuzz.exe||fizzbuzz in file explorer
+or execute fizzbuzz.exe||fizzbuzz in file explorer
 
 
 ### Edit FizzBuzz
