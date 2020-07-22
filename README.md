@@ -1,6 +1,14 @@
 # Go-Modulus
 
 A fizz buzz is a great way to showcase that I understand the basic functionality of a language using functions and control flow. I have understood basic arithmatic and how they work I have wondered for a while how modulus works in a language setting. Upon searching for a modulus function source code I could not find any refferences to code that would satisfy my curiosity. After 45 minutes staring at my screen I finally was able to implement a 64bit modulus function. Instead of just putting it out there I decided to release a fizz buzz program utilizing the modulus function.
+
+TODO
+- [x] Upload v 1.0
+- [ ] Edit Readme
+- [ ] Provide More Examples
+
+
+
 ## How To Use
 ### Import Modulus Function
 
