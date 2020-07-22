@@ -33,7 +33,9 @@ go run main.go
 #### Option 2
 
 go build -o fizzbuzz
-fizzbuzz.exe || click on fizzbuzz.exe in file explorer
+fizzbuzz.exe (windows) ./fizz-buzz (linux)
+
+or execute on fizzbuzz.exe||fizzbuzz in file explorer
 
 
 ### Edit FizzBuzz
